@@ -1,4 +1,4 @@
-package socialpay
+package socialpaygo
 
 type (
 	UPointCheckUserInfoInput struct {

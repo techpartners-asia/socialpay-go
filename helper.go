@@ -1,4 +1,4 @@
-package socialpay
+package socialpaygo
 
 import "github.com/techpartners-asia/socialpay-go/utils"
 
